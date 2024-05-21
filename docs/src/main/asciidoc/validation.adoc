@@ -3,7 +3,7 @@ This guide is maintained in the main Quarkus repository
 and pull requests should be submitted there:
 https://github.com/quarkusio/quarkus/tree/main/docs/src/main/asciidoc
 ////
-= Validation with Hibernate Validator
+= Validation with Hibernate Validator sss
 include::_attributes.adoc[]
 :categories: web, data
 :summary: This guide covers how to use Hibernate Validator/Bean Validation in your REST services.
